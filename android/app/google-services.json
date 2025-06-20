@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "292035189222",
+    "project_id": "farm-connect-d1cb0",
+    "storage_bucket": "farm-connect-d1cb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292035189222:android:703efd998d5b1aef16de27",
+        "android_client_info": {
+          "package_name": "com.example.farm_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292035189222-l8nmu1fcvr74cbu8lai6nn1tlm8hnlb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farm_connect",
+            "certificate_hash": "ad74b25a7b961958ce5a2c55583cb7c8a094802b"
+          }
+        },
+        {
+          "client_id": "292035189222-hrvs8mv0e67iullcnljlfkptnl4be0st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHtupmVdHmneFCCvFAvVcz0Z3-ERylKQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292035189222-hrvs8mv0e67iullcnljlfkptnl4be0st.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292035189222-tjiohmg5v63m6f1ps0stk9mo5uavb3i9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.farmConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
