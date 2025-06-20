@@ -1,16 +1,25 @@
-# farm_connect
+# FarmConnect
 
-A new Flutter project.
+A Flutter-based mobile app that connects farmers directly with buyers, streamlining the agriculture marketplace.
 
-## Getting Started
+Farm Connect is a digital platform designed to empower farmers by providing direct access 
+to markets, resources, and buyers. It serves as a centralized hub where farmers can list and sell 
+their produce, connect with potential buyers, and access essential agricultural tools and 
+information. The platform simplifies the supply chain by eliminating middlemen, ensuring fair 
+pricing and improved profitability for farmers across India. 
+The app offers detailed product listings with images, pricing, and availability, allowing buyers 
+to filter by region, crop type, and quantity. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+- 🔐 User Authentication (Firebase)
+- 📦 Product Listing & Buying
+- 🛒 Cart System
+- 💳 Payment Integration
+- 📥 PDF Invoice Download
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+- Flutter (Frontend)
+- Node.js (Backend)
+- MongoDB (Database)
+- Firebase (Auth)
